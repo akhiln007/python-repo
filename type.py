@@ -1,0 +1,8 @@
+print(type('sam'))
+print(type("sam"))
+print(type('7'))
+print(type(7))
+print(type(7.5))
+print(type('I\'m in africa'))
+print(type("I'm in africa"))
+print(type([1,2,3]))
