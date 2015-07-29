@@ -3,8 +3,8 @@ print("My name is {}".format(name))
 
 
 friend=input("Enter your friend's name: ")
-location=("Enter the location of meetup: ")
-time=("Enter the time of meetup: ")
+location=input("Enter the location of meetup: ")
+time=input("Enter the time of meetup: ")
 print("I will meet",friend,"in",location,"at",time)
 print("I will meet"+friend+"in"+location+"at"+time)
 print("I will meet",friend,"in",location,"at",time,sep='')
