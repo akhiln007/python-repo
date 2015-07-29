@@ -1,0 +1,3 @@
+print('Very'+'Good')
+print(3*'Very'+'Good')
+print(5*'Yes')
